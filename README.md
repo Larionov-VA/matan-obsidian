@@ -1,7 +1,7 @@
 # Instructions for use
 ### Step one
 Before using, download [Obisian](https://obsidian.md/). <br>Obsidian is a program for graphically displaying connections between notes and conveniently studying the material<br><br>
-<img src="/images/ObsidianGraph.png" width="650" height="350">
+<img src="/images/ObsidianGraph.png" width="60%" height="60%">
 ### Step two
 Download the zip folder by clicking on the green "code" button. In the window that opens, click "Download zip"<br>
 After the download is complete, unzip the folder to a convenient location on your PC.<br>
